@@ -1,0 +1,25 @@
+{
+  "name": "hakaton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Model.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToamCohen/NPM-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ToamCohen/NPM-package/issues"
+  },
+  "homepage": "https://github.com/ToamCohen/NPM-package#readme",
+  "dependencies": {
+    "handlebars": "^4.7.6",
+    "jquery": "^3.5.1",
+    "yahoo-finance": "^0.3.6"
+  }
+}
